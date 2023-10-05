@@ -1,5 +1,6 @@
 var __BLOCKEDSITES__ = [
-   "*.pornhub.com"
+   "*.pornhub.com",
+   "*.pinterest.com"
 ];
 
 var proxy;

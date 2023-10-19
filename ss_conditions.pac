@@ -2,7 +2,8 @@ var __BLOCKEDSITES__ = [
    "*.pornhub.com",
    "*.pinterest.com",
    "*.fapreactor.com",
-   "*.namethatporn.com"
+   "*.namethatporn.com",
+   "*.fandom.com"
 ];
 
 var proxy;

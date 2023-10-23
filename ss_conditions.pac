@@ -5,7 +5,7 @@ var __BLOCKEDSITES__ = [
    "*.namethatporn.com",
    "*.fandom.com",
    "*.redtube.*",
-   "*.sexlib.*",
+   "*.sexlib.*"
 ];
 
 var proxy;

@@ -4,7 +4,7 @@ var __BLOCKEDSITES__ = [
    "*.fapreactor.com",
    "*.namethatporn.com",
    "*.fandom.com",
-   "*.redtube.*",
+   "*.redtube.com",
    "*.sexlib.*"
 ];
 

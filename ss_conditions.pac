@@ -7,7 +7,8 @@ var __BLOCKEDSITES__ = [
    "*.redtube.com",
    "*.sexlib.*",
    "*.telegra.ph",
-   "*.wealthyexile.*"
+   "*.wealthyexile.*",
+   "*.namethatpornstar.*"
 ];
 
 var proxy;

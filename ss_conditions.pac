@@ -8,7 +8,8 @@ var __BLOCKEDSITES__ = [
    "*.sexlib.*",
    "*.telegra.ph",
    "*.wealthyexile.*",
-   "*.namethatpornstar.*"
+   "*.namethatpornstar.*",
+   "*.onlyfans.com"
 ];
 
 var proxy;

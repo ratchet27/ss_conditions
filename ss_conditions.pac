@@ -9,7 +9,8 @@ var __BLOCKEDSITES__ = [
    "*.telegra.ph",
    "*.wealthyexile.*",
    "*.namethatpornstar.*",
-   "*.onlyfans.com"
+   "*.onlyfans.com",
+   "*gofile.io":
 ];
 
 var proxy;

@@ -10,7 +10,7 @@ var __BLOCKEDSITES__ = [
    "*.wealthyexile.*",
    "*.namethatpornstar.*",
    "*.onlyfans.com",
-   "*.gofile.io"
+   "*.gofile.io",
 ];
 
 var proxy;

@@ -11,6 +11,7 @@ var __BLOCKEDSITES__ = [
    "*.namethatpornstar.*",
    "*.onlyfans.com",
    "*.gofile.io",
+   "*.tinyurl.com",
 ];
 
 var proxy;

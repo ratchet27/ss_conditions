@@ -12,7 +12,7 @@ var __BLOCKEDSITES__ = [
    "*.onlyfans.com",
    "*.gofile.io",
    "*.tinyurl.com",
-   "*.f.a.p.e.l.l.o.com.*",
+   "*.fapello.com.*",
 ];
 
 var proxy;

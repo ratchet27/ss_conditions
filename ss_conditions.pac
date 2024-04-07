@@ -13,6 +13,7 @@ var __BLOCKEDSITES__ = [
    "*.gofile.io",
    "*.tinyurl.com",
    "*.fapello.com.*",
+   "*.ibb.co.*"
 ];
 
 var proxy;

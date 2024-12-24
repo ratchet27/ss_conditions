@@ -14,8 +14,7 @@ var __BLOCKEDSITES__ = [
    "*.tinyurl.com",
    "*.fapello.com.*",
    "*.ibb.co.*",
-   "*.salamand3r.fail",
-   ".nexusmods.com"
+   "*.salamand3r.fail"
 ];
 
 var proxy;

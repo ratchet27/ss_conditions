@@ -15,7 +15,8 @@ var __BLOCKEDSITES__ = [
    "*.fapello.com.*",
    "*.ibb.co.*",
    "*.salamand3r.fail",
-   "*.linktr.ee"
+   "*.linktr.ee",
+   "*.typeform.com"
 ];
 
 var proxy;

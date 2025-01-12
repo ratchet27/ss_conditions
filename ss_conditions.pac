@@ -17,7 +17,8 @@ var __BLOCKEDSITES__ = [
    "*.salamand3r.fail",
    "*.linktr.ee",
    "*.typeform.com",
-   "*.newgrounds.com"
+   "*.newgrounds.com",
+   "*.sfmcompile.club"
 ];
 
 var proxy;

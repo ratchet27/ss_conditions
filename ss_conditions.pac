@@ -18,7 +18,8 @@ var __BLOCKEDSITES__ = [
    "*.linktr.ee",
    "*.typeform.com",
    "*.newgrounds.com",
-   "*.sfmcompile.club"
+   "*.sfmcompile.club",
+   "*.kinogo.*"
 ];
 
 var proxy;

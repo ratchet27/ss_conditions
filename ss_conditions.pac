@@ -19,7 +19,8 @@ var __BLOCKEDSITES__ = [
    "*.typeform.com",
    "*.newgrounds.com",
    "*.sfmcompile.club",
-   "*.kinogo.*"
+   "*.kinogo.*",
+   "*.xgroovy.*"
 ];
 
 var proxy;
